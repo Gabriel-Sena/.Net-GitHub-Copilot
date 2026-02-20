@@ -1,0 +1,15 @@
+O .NET FrameWork é a versão legado que só funciona em Windowns é o .NET ou .NET Core é a versão mais atual que funciona em multiplataforma
+
+A questão da multiplataforma ajuda no desenvolvimento de sistemas, onde posso desenvolver algo no Windowns e depois colocar pra roda no Linux. 
+outro ponto seria com relação a baratear os custos dos servidores, tendo em vista que um servidor Linux é muito mais barato que um Windowns.
+
+Não faz mais sentido manter o .NET FrameWork, pois a Microsoft possui uma plataforma em nuvem (Microsoft Azure) e ela também suporta Linux
+
+.NET Core vai até a versão 3.1, depois dessa versão pula para a versão 5 (para não causar confusão, pois existia o .NET FrameWork 4) e tira o nome Core mostrando que a partir dessa versão seria a implementação principal
+
+.NET FrameWork => legado
+.NET Core => da versão 3.1 pra baixo
+.NET => da versão 5 em diante (versão atual é o .NET 9)
+
+.NET Core e .NET são a mesma coisa, muda apenas a nomenclatura
+

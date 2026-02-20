@@ -1,0 +1,11 @@
+- .NET é uma plataforma de desenvolvimento unificado que permite a construção de sistemas e aplicações. Essa plataforma fornece suluções para diversos tipos de aplicação. É multiplataforma
+É open source da microsoft.
+Com ele é possivel desenvolver aplicações desktop, web (com ASP NET), cloud (com azure), mobilie, gaming, IoT e AI.
+
+- Começou no final dos anos 90 para bater de frente com o Java, popois era multiplataforma
+
+- Já o C# é uma das linguagens de programação usada no .NET
+
+- Com relação a infraestrutura do .NET, o C# se encaixa na parte da linguagem
+
+- .NET Standard é um conjunto de regras para garantir o funcionamneto em diversas plataformas

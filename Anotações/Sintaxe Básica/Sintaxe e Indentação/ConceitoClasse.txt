@@ -1,0 +1,13 @@
+A classe está relacionada a abstração na POO. Ela representa a construção de um objeto.
+
+A abstração é pegar um objeto do mundo real e transformar em um objeto na programação
+
+Uma classe possui um nome, atributos e métodos (ação que a classe vai fazer), exemplo:
+Nome da classe: Pessoa
+Atributos: Nome, Idade
+Método: apresentar
+
+Com base nas informações anteriores, um objeto seria uma pessoa que estivesse se apresentando falando seu nome e sua idade.
+
+Atributos sempre vem antes dos métodos
+

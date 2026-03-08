@@ -1,0 +1,10 @@
+Quando criio um novo projeto através do comando "dotnet new console" ele cria alguns arquivos, são esses:
+
+Program.cs: onde Program é o nome da minha classe (onde vou codificar)
+a exteção dos arquivos c# é o .cs
+
+csproj: é o arquivo de projeto do c#, e nem possui umas informações fundamentais pro meu projeto
+pasta obj: não mexemos, está relacionada a arquivos de debug
+pasta bin: pasta de binários, onde se eu rodar o comando "dotnet build" ele compila o projeto e cria novos arquivos
+
+posso ignorar as duas pastas pq elas serão criadas sempre que eu compilar meu projeto

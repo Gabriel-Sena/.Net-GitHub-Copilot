@@ -1,7 +1,0 @@
-sempre que for dar um comando dot net via console começar com dotnet
-new de novo projeto
-console do tipo de projeto, esse toda a saída é feit no console
-
-; é obrigatório no C#
-
-dotnet run: pra rodar o código

@@ -1,0 +1,14 @@
+Toda classe deve começar com letra maiúscula e no formato UpperCamelCase, onde a primeira letra de cada palavra é maiúscula
+
+namespace: organização das classes, pra poder identificar classes que estejam no mesmo dominio
+
+prop: atalho para digitar uma propiedade
+propiedades = caracteristicas
+
+
+WriteLine = é um método que escrever uma informação no terminal
+
+get = pegar valor (Console.WriteLine)
+set = atribuir um valor (Nome = "Gabriel";)
+
+uma das caracteristicas do método e a abertura e o fechamento de parenteses e tudo que tem dentro é um parametro ou argumento
